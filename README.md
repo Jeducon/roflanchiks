@@ -1,4 +1,4 @@
-# roflanchiks
+# Task_4 Card
 
 - `display: flex` — використано для центрування картки на сторінці (body).
 - `justify-content: center` — центрує картку по горизонталі (body).
